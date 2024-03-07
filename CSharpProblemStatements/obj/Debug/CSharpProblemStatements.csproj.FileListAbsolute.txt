@@ -1,0 +1,7 @@
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\bin\Debug\CSharpProblemStatements.exe.config
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\bin\Debug\CSharpProblemStatements.exe
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\bin\Debug\CSharpProblemStatements.pdb
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\obj\Debug\CSharpProblemStatements.csproj.AssemblyReference.cache
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\obj\Debug\CSharpProblemStatements.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\obj\Debug\CSharpProblemStatements.exe
+F:\DotNetProgramss\CSharpProblemStatements\CSharpProblemStatements\obj\Debug\CSharpProblemStatements.pdb
